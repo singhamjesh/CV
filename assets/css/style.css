@@ -326,6 +326,10 @@ strong {
 /******************************************************************************/
 /* skill and about Section css
 /******************************************************************************/
+.aboutContainer .img-thumbnail {
+ height: 100%;
+}
+
 .about-box .about-title {
  color: #3d4451;
  padding-bottom: 25px;
